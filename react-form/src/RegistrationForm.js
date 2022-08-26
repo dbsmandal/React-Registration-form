@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { collection, addDoc } from "firebase/firestore";
 
-import "./ContactUs.css";
+import "./RegistrationForm.css";
 import { db } from "./firebase";
 
 const Contact = () => {

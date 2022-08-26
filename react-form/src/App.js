@@ -1,5 +1,5 @@
 import './App.css';
-import ContactUs from './ContactUs';
+import RegistrationForm from './RegistrationForm';
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
    <>
    
    <div>
-<ContactUs/>
+<RegistrationForm/>
    </div>
    </>
   );
