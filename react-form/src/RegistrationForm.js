@@ -11,7 +11,6 @@ const Contact = () => {
   const [mobile, setMobile] = useState("");
   const [country, setCountry] = useState("");
   const [state, setState] = useState("");
-
   const [password, setPassword] = useState("");
   const [cpassword, setcPassword] = useState("");
 
